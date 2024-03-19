@@ -1,0 +1,4 @@
+{
+	"name": "Debian 9 (Legacy Server)",
+	"image": "debian:9"
+}

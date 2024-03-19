@@ -1,0 +1,4 @@
+{
+	"name": "Debian 8 (Unsupported)",
+	"image": "debian:8"
+}

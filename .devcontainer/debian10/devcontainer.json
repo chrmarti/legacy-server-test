@@ -1,0 +1,4 @@
+{
+	"name": "Debian 10 (Supported)",
+	"image": "debian:10"
+}
